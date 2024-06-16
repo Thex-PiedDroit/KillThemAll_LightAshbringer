@@ -1,6 +1,6 @@
-## Interface: 100002
+## Interface: 100207
 ## Title: |cff00ccffKillThemAll_LightAshbringer|r
-## Version: 1.0.3
+## Version: 1.0.4
 ## Notes: Adds Light Ashbringer to KillThemAll
 ## Author: TwoSouls
 ## DefaultState: enabled
